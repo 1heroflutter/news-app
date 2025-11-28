@@ -6,7 +6,7 @@ A full-stack mobile application designed for efficient content aggregation, pers
 #Screenshots
 
 
-| ![Login](news/assets/images/screenshots/login.jpg) | ![Country](news/assets/images/screenshots/country.jpg) | ![topic](news/assets/images/screenshots/topic_select.jpg) | ![Home](news/assets/images/screenshots/home_light.jpg) | ![Dark](news/assets/images/screenshots/home_dark.jpg) | ![Explore](news/assets/images/screenshots/explore.jpg) | ![Setting](news/assets/images/screenshots/setting.jpg) | ![latest](news/assets/images/screenshots/latest.jpg) | ![News](news/assets/images/screenshots/news_reader.jpg) | ![Search](news/assets/images/screenshots/search_news.jpg) |
+| ![Login](news/assets/images/login.jpg) | ![Country](news/assets/images/country.jpg) | ![topic](news/assets/images/topic_select.jpg) | ![Home](news/assets/images/home_light.jpg) | ![Dark](news/assets/images/home_dark.jpg) | ![Explore](news/assets/images/explore.jpg) | ![Setting](news/assets/images/setting.jpg) | ![latest](news/assets/images/latest.jpg) | ![News](news/assets/images/news_reader.jpg) | ![Search](news/assets/images/search_news.jpg) |
 |:------------------------------------------------:|:---------------------------------------------:|:-----------------------------------------------------:|:-------------------------------------------------:|:---------------------------------------------------------------:|:-------------------------------------------:|:---------------------------------------------------:|:-------------------------------------------------------:|:---------------------------------------------------------:|:----------------------------------------------------------:|
 
 
